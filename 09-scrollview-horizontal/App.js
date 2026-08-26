@@ -7,7 +7,7 @@ class App extends Component{
       <View style={styles.container}>
         <ScrollView horizontal={true} showsHorizontalScrollIndicator={false}>
         <View style={styles.box1}></View>
-        <View style={styles.box2}></View>x
+        <View style={styles.box2}></View>
         <View style={styles.box3}></View>
         <View style={styles.box4}></View>
         <View style={styles.box5}></View>
